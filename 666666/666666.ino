@@ -44,7 +44,7 @@ version 2.1 of the License, or (at your option) any later version.
 
 //#define ENCODER_DO_NOT_USE_INTERRUPTS
 //we have interuupt on all pins on PortB and PD0123
-#include <Encoder.h>
+#include "Encoder.h"
 
 uint_fast8_t poiuytr;
 
